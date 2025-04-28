@@ -1,0 +1,108 @@
+
+root {
+  --rtfm-primary-color: #e60000;
+  --rtfm-offset-color: #f8f8f8;
+  --rtfm-text-color: #333;
+}
+:root {
+  --wp--preset--font-size--normal: 16px;
+  --wp--preset--font-size--huge: 42px;
+}
+:root {
+  --primary-color: #007e6a;
+  --secondary-color: #00c16e;
+  --font-color: #707070;
+  --bg-color: #fff;
+  --heading-color: #404044;
+  --border-radius: 6px;
+  --border-radius-full: 35px;
+  --border-color-light: #eee;
+  --iframe-filter: grayscale(0%);
+  --bg-grey: #f6f6f6;
+  --bg-light: #fbfbfb;
+  --bg-dark-color: #fff;
+  --disable-color: #d8d6d6;
+  --box-shadow-color: rgb(0 0 0 / 10%);
+  --border-color: #eee;
+  --bg-layer: rgba(6, 31, 36, 0.9);
+}
+@media (prefers-reduced-motion: no-preference) {
+  :root {
+      scroll-behavior: smooth;
+  }
+}
+:root {
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1 --bs-pink: #d63384;
+  --bs-red: #dc3545;
+  --bs-orange: #fd7e14;
+  --bs-yellow: #ffc107;
+  --bs-green: #198754;
+  --bs-teal: #20c997;
+  --bs-cyan: #0dcaf0;
+  --bs-white: #fff;
+  --bs-gray: #6c757d;
+  --bs-gray-dark: #343a40;
+  --bs-primary: #0d6efd;
+  --bs-secondary: #6c757d;
+  --bs-success: #198754;
+  --bs-info: #0dcaf0;
+  --bs-warning: #ffc107;
+  --bs-danger: #dc3545;
+  --bs-light: #f8f9fa;
+  --bs-dark: #212529;
+  --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+}
+html {
+  scroll-behavior: smooth;
+}
+html {
+  box-sizing: border-box;
+}
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-color);
+  color: var(--font-color);
+  font-family: 'DM Sans', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+html[Attributes Style] {
+  -webkit-locale: "en-US";
+}
+user agent stylesheet
+:root {
+  view-transition-name: root;
+}
+user agent stylesheet
+html {
+  display: block;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
